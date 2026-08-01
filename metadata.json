@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Analyzer",
+  "description": "A premium SaaS developer dashboard for GitHub repository analysis, comparative evaluation, contributor metrics, and AI architectural reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
